@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Web Developer.
+I am Husen Efendi, a Web Developer.
 🔭 I’m currently working on Softwareseni - Yogyakarta 
 
 my Stacks:
