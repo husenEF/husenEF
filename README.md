@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I am a Web Developer.
+🔭 I’m currently working on Softwareseni - Yogyakarta 
+
+my Stacks:
+- Vue js, react js
+- react native
+- php
+- CMS/Framework: Wordpress, Larave, CodeIgniter
+
+![husenef's GitHub stats](https://github-readme-stats.vercel.app/api?username=husenef&show_icons=true&theme=radical)
+
 <!--
 **husenEF/husenEF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
