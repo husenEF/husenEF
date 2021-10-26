@@ -6,8 +6,8 @@ I am Husen Efendi, a Web Developer.
 my Stacks:
 - Vue js, react js
 - react native
-- php
-- CMS/Framework: Wordpress, Larave, CodeIgniter
+- php, nodejs
+- CMS/Framework: Wordpress, Larave, CodeIgniter, express
 
 ![husenef's GitHub stats](https://github-readme-stats.vercel.app/api?username=husenef&show_icons=true&theme=radical)
 
