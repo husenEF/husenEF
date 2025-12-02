@@ -13,16 +13,15 @@
   </a>
 </p>
 
-I am Husen Efendi, a Web Developer.
+I am Husen Efendi, a Fullstack Web Developer.
 🔭 I’m currently working on Softwareseni - Yogyakarta 
 
 my Stacks:
 - Vue js, react js
 - react native
 - php, nodejs
-- CMS/Framework: Wordpress, Larave, CodeIgniter, express
+- CMS/Framework: Wordpress, Laravel, CodeIgniter, express,Nest Js, NextJS
 
-![husenef's GitHub stats](https://github-readme-stats.vercel.app/api?username=husenef&show_icons=true&theme=radical)
 
 <!--
 **husenEF/husenEF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
